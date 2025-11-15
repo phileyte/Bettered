@@ -1,1 +1,1 @@
-# Bettered
+# Bettered Minecraft modpack
