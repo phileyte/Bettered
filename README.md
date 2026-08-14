@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/phileyte/Bettered/blob/main/logo.png" alt="Bettered logo" width="20%" height="20%">
+<img src="https://github.com/phileyte/Bettered/blob/main/icon.png" alt="Bettered logo" width="20%" height="20%">
 
-# Bettered Minecraft modpack
+# Bettered a Minecraft Modpack
